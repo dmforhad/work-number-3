@@ -1,0 +1,39 @@
+.header{
+	min-height: 150px;
+	background-color: darkred;
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.blog{
+	float: left;
+	width: 60%;
+	min-height: 100px;
+	background-color: crimson;
+}
+.contact{
+	float: right;
+	width: 40%;
+	min-height: 100px;
+	background-color: green;
+}
+.single{
+	float: left;
+	width: 33.3%;
+	min-height: 100px;
+}
+.box1{
+	background-color: lime;
+}
+.box2{
+	background-color: salmon;
+}
+.box3{
+	background-color: orange;
+}
+.footer{
+	min-height: 120px;
+	background-color: black;
+	clear: both;
+}
